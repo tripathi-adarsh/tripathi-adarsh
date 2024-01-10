@@ -16,7 +16,7 @@
 
                     {{ __('You are in dashboard page!') }}
                     <br>
-                    {{ __('Add Something') }}
+                    {{ __('Add Something(button)') }}
                     <a href="/data">
                     <input type="button" class="card text-white bg-success" value="DATA"></a>
                 </div>
