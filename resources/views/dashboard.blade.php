@@ -15,6 +15,8 @@
                     @endif
 
                     {{ __('You are in dashboard page!') }}
+                    <br>
+                    {{ __('Add Something') }}
                     <a href="/data">
                     <input type="button" class="card text-white bg-success" value="DATA"></a>
                 </div>
