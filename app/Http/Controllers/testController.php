@@ -62,4 +62,16 @@ class testController extends Controller
        return redirect('/data')->with('success', "DATA RESTORED SUCCESSFULLY!");
     }
     
+    public function watsappMess()
+    {
+        return view('data.wataapMessage');
+    }
+
+    public function storeWatsappMess(Request $request)
+    {
+         return redirect('https://web.whatsapp.com/send?phone=9305173548 &text='.$request->body);
+        
+    }
+ 
+    
 }

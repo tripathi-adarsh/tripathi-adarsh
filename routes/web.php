@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\NotificationController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,6 +30,15 @@ Route::post('/update-data', 'testController@update');
 Route::get('/delete-data', 'testController@delete');
 Route::get('/activate-data', 'testController@activate');
 Route::get('/restore-data', 'testController@restore');
+
+//for web watsaap message sending
+Route::get('/watsapp-messaging', 'testController@watsappMess');
+Route::post('/watsapp-messaging', 'testController@storeWatsappMess');
+
+//for queue job send sms
+Route::get('/send-sms', [NotificationController::class, 'sendSmsNotificaition']);
+
+
 
 
 
