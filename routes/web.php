@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\NotificationController;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,9 +38,3 @@ Route::post('/watsapp-messaging', 'testController@storeWatsappMess');
 
 //for queue job send sms
 Route::get('/send-sms', [NotificationController::class, 'sendSmsNotificaition']);
-
-
-
-
-
-

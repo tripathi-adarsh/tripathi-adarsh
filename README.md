@@ -76,3 +76,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+//create a crone task for mail sending 
+    php artisan make:command testcron --command=test:cron
+        //go to app/Commands\testcron and code on handle function
+        //change on kernal.php (schedule function)
+        note => setup env file to our pc mail and varification app password otherwise do not run
+
+    php artisan schedule:run
+
+    //if not running then check error run this command (php artisan cron name).
+    php artisan test:cron
+
