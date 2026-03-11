@@ -1,90 +1,94 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<h1 align="center">👋 Hi, I'm Adarsh Kumar</h1>
+<h3 align="center">Senior PHP / Laravel Developer | 4+ Years Experience</h3>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+  <a href="mailto:adarshtripathi454@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/adarsh-kumar-608832213/">💼 LinkedIn</a> •
+  <a href="tel:+919305173548">📱 +91 9305173548</a> •
+  📍 Prayagraj, UP
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🚀 About Me
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Senior Laravel Developer with **4+ years** of experience building scalable backend systems.
+I have built CRM platforms, HRMS, School & Library Management Systems used by thousands of users.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- 🔭 Currently working at **WsCube Tech, Jodhpur** as Senior Laravel Developer
+- 💡 Built **40+ production APIs** using Node.js & Express
+- 🔧 Successfully upgraded Laravel projects from **v6 → v9**
+- 💳 Integrated **Razorpay Payment Gateway** in production systems
+- 🎯 Looking for opportunities in **Noida | Gurugram | Delhi | Ahmedabad**
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🛠️ Tech Stack
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+**Backend**
 
-## Laravel Sponsors
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+**Database**
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Contributing
+**Frontend**
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Code of Conduct
+**Tools**
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 💼 Key Projects
 
-## License
+### 🔹 CRM Management System
+> Laravel | MySQL | Razorpay | Role-based Access
+- Lead management, follow-ups, sales tracking for 10,000+ users
+- Role-based access: Admin, Counsellor, Team, Learner
+- Online fee collection with invoices and payment links
+- Business intelligence dashboards and reports
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 🔹 HRMS System
+> Laravel | MySQL
+- Employee attendance and leave tracking
+- Automated payroll calculation based on working days
 
-//create a crone task for mail sending 
-    php artisan make:command testcron --command=test:cron
-        //go to app/Commands\testcron and code on handle function
-        //change on kernal.php (schedule function)
-        note => setup env file to our pc mail and varification app password otherwise do not run
+### 🔹 Digital Library & School Management System
+> Laravel | MySQL | REST API
+- Multi-institution system for teachers, students, attendance
+- Book inventory, purchase history, digital library dashboard
 
-    php artisan schedule:run
+---
 
-    //if not running then check error run this command (php artisan cron name).
-    php artisan test:cron
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tripathi-adarsh&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+| | |
+|---|---|
+| 📧 Email | adarshtripathi454@gmail.com |
+| 📱 Phone | +91 9305173548 |
+| 💼 LinkedIn | [adarsh-kumar-608832213](https://www.linkedin.com/in/adarsh-kumar-608832213/) |
+| 📍 Location | Prayagraj, Uttar Pradesh |
+
+---
+
+<p align="center">⭐ <i>Open to work — Noida | Gurugram | Delhi | Ahmedabad | Mohali</i> ⭐</p>
